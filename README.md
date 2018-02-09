@@ -54,6 +54,8 @@ I haven't mentioned about what models you may want to use for your Time Series. 
 
 I would recommend https://otexts.org/fpp/ or https://otexts.org/fpp2/
 
+Remember, **“The whole is greater than the sum of its parts”**, so when you are incorporating the features we have discussed above, fit your model simultaneously! (For example, avoid de-trening your model first and then moving onto modelling some other feature of the data set.) 
+
 ## Evaluation and Diagnostics
 To evaulate our forecasting model we ideally want a training set and a testing set. So, build your model on "most" of the data, but keep some aside to test how well your model forecasts. 
 
