@@ -49,7 +49,7 @@ If you are trying to identify "outliers" by considering how many standard deviat
 I haven't mentioned about what models you may want to use for your Time Series. If you want to investigate further, then here are some things you may like to look up:
 * Linear Regression 
 * Exponential Smoothing
-* ARIMA
+* ARIMA (some notation notes can be found here: https://github.com/lancs-dsrg/timeseries/blob/master/SeasonalRegArima.pdf)
 * Bayesian structural time series
 
 I would recommend https://otexts.org/fpp/ or https://otexts.org/fpp2/
